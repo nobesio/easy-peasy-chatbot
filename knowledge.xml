@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concepts>
+
+    <concept>
+        <stimuli>
+            <stimulus>Como cargo una factura?</stimulus>
+            <stimulus>Quiero cargar una factura?</stimulus>
+        </stimuli>
+        <response>Para cargar una factura hace click ahi</response>
+    </concept>
+
+     <concept>
+        <stimuli>
+            <stimulus>Como cargar una nota de credito</stimulus>
+            <stimulus>Quiero subir una nota de credito</stimulus>
+        </stimuli>
+        <response>Para subir una nota de credito..</response>
+    </concept>
+
+
+
+</concepts>
