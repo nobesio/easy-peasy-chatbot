@@ -3,20 +3,24 @@
 
     <concept>
         <stimuli>
-            <stimulus>Como cargo una factura?</stimulus>
-            <stimulus>Quiero cargar una factura?</stimulus>
+            <stimulus>Que es easy peasy chatbot?</stimulus>
+            <stimulus>De que se trata este proyecto?</stimulus>
+            <stimulus>Contame algo</stimulus>
+            <stimulus>Que sos?</stimulus>
+            <stimulus>Cual es tu fin?</stimulus>
         </stimuli>
-        <response>Para cargar una factura hace click ahi</response>
+        <response>Easy Peasy Chatbot es un "Bot Conversacional" muy simple escrito es unas pocas lineas de Python.  Utiliza similitud de coseno para determinar la mejor respuesta.</response>
     </concept>
 
      <concept>
         <stimuli>
-            <stimulus>Como cargar una nota de credito</stimulus>
-            <stimulus>Quiero subir una nota de credito</stimulus>
+            <stimulus>Quien es el creador?</stimulus>
+            <stimulus>Creador</stimulus>
+            <stimulus>Quien es el autor?</stimulus>
+            <stimulus>Autor</stimulus>
+            <stimulus>Quien te hizo?</stimulus>
         </stimuli>
-        <response>Para subir una nota de credito..</response>
+        <response>Mi creador es Nicolás Martín Obesio, un estudiante de ciencias de la computacion de la UBA.</response>
     </concept>
-
-
 
 </concepts>
