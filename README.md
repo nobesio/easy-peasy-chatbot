@@ -11,7 +11,7 @@ To add new answers you must edit `knowledge.xml`. The structure of this file is 
 
 Is just a matter of
 
-    $ python35e chatbot.py
+    $ python3 chatbot.py
     
 ## Author
 Nicolás Martín Obesio, a computer science student at the University of Buenos Aires.
